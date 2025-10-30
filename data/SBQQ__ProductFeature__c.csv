@@ -1,4 +1,0 @@
-Guid,Name,CurrencyIsoCode,SBQQ__Category__c,SBQQ__ConfigurationFieldSet__c,SBQQ__ConfiguredSKU__c,SBQQ__DynamicProductFilterFieldSet__c,SBQQ__DynamicProductLookupFieldSet__c,SBQQ__MaxOptionCount__c,SBQQ__MinOptionCount__c,SBQQ__Number__c,SBQQ__OptionSelectionMethod__c
-3397ac17-9356-4567-9110-b69c556da459,Equipment,USD,#N/A,#N/A,37fa322a-855a-4f87-8d38-c610871e8476,#N/A,#N/A,#N/A,1.0,12.0,#N/A
-8636410c-d581-48e4-9da9-da2244e7fc96,Services,USD,#N/A,#N/A,37fa322a-855a-4f87-8d38-c610871e8476,#N/A,#N/A,#N/A,0.0,11.0,#N/A
-d9c0b743-7439-40c0-9706-d5ee7f39febd,Beverages,USD,#N/A,#N/A,37fa322a-855a-4f87-8d38-c610871e8476,#N/A,#N/A,#N/A,1.0,10.0,#N/A
