@@ -3,3 +3,4 @@ Guid,Name,CreatedDate,LastModifiedDate,SellingModelType,PricingTerm,PricingTermU
 e1e8ea1c-dd80-4e12-8dba-00737ffb05c3,Term Based - Yearly,2024-10-24T15:01:12.000Z,2025-12-10T09:27:46.000Z,TermDefined,1,Annual,Active,false
 e2564f42-2f9f-479e-8c23-a530413b4413,Term Monthly,2024-10-24T15:01:12.000Z,2024-10-24T15:01:12.000Z,TermDefined,1,Months,Active,false
 f37d9d36-1849-4769-9559-5cb7485dc947,Evergreen Annual,2024-10-24T15:01:12.000Z,2024-10-24T15:01:12.000Z,Evergreen,1,Annual,Active,false
+f6cf8df0-0cf4-4c3f-a419-8e0d316cd641,One-Time,2024-10-24T15:01:12.000Z,2024-10-24T15:01:12.000Z,OneTime,#N/A,#N/A,Active,false
