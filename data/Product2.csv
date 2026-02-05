@@ -10,7 +10,7 @@ Guid,ProductCode,Description,Family,CurrencyIsoCode,QuantityUnitOfMeasure,StockK
 0f4b2653-0e05-42ba-a77a-8803eec3263b,QB-API-PREP,API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.,Software,USD,#N/A,QB-API-PREP,#N/A,true,#N/A,false
 12bb0795-acd7-4dbf-9e6e-af80fac8f31b,QB-MEM 16GB,16GB RDIMM,Hardware,USD,Each,QB-MEM 16GB,#N/A,true,Allowed,false
 146a42af-aac2-4b79-9155-3aad4468c25c,QBO0021,Quickbooks Online product for SMB businesses.,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
-14c3203f-6187-471e-9398-340dc8873742,#N/A,#N/A,Support,USD,#N/A,#N/A,#N/A,true,NotAllowed,false
+d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 16477272-6241-40ec-9f40-483d2be642c7,AT001,#N/A,Support,USD,#N/A,#N/A,#N/A,true,Allowed,false
 16cf3d3e-1a23-40d0-8a3a-ee278afe1bce,QB-REDHAT,"Red Hat Enterprise Linux delivers military-grade security, 99.999% uptime, support for business-critical workloads.",3rd Party Software,USD,#N/A,QB-REDHAT,#N/A,true,#N/A,false
 1a41a246-4efb-44bb-b9ae-82c227c86843,QB-API-MGMT,Increase productivity by managing all your APIs and microservices from one place.,Software,USD,#N/A,QB-API-MGMT,#N/A,true,#N/A,false
@@ -49,20 +49,20 @@ Guid,ProductCode,Description,Family,CurrencyIsoCode,QuantityUnitOfMeasure,StockK
 587d7708-49ce-433b-a2b7-8905ad925a91,QB-DRO-FLO-ENTR,#N/A,#N/A,USD,#N/A,QB-DRO-FLO-ENTR,#N/A,true,#N/A,false
 5e07d934-5037-470f-b904-5418b26b46e3,LPB001,"The laptop pro bundle includes a Laptop, mouse, warranty for 2 years, premium support and printer bundle",Hardware,USD,#N/A,#N/A,#N/A,true,Allowed,false
 5fb8018f-c875-494d-9d8e-7b91a2c67e83,QB-DRO-CS,#N/A,#N/A,USD,#N/A,QB-DRO-CS,#N/A,true,#N/A,false
-613f9309-4e82-42c2-b8a6-014f48f5f15d,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
+d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 6177203e-6067-41a1-826e-ff871d6d9825,QB-SUPP-1005,"System maintenance, administration, and configuration performed by a certified technician. Also includes 24x7 phone service and monthly on-site check-ups. 20% of hardware.",Services,USD,#N/A,QB-SUPP-1005,#N/A,true,#N/A,false
 61a831c0-7860-465c-8174-dd2f474e0b94,QB-AEH-OBJ,#N/A,Software,USD,#N/A,QB-AEH-OBJ,#N/A,true,Allowed,false
 65fec7e7-1401-4cf1-b6f8-940c35f351f0,QB-SUPP-2000,"Upgrade, Bug Fixes, and Patched for Perpetual Licenses.
 Early Access to BETA Releases. Upgrade and Patch Assistance. 20% of Licensing",Services,USD,#N/A,QB-SUPP-2000,#N/A,true,#N/A,false
 67462f11-c195-44a0-8528-a9e938e7fdd4,QB-BDL-CRTL,"The Business Critical Edition offers specialized functionality for highly regulated industries, especially those with sensitive data. The edition includes all features in the Enterprise Edition plus ...",Bundle,USD,#N/A,QB-BDL-CRTL,#N/A,true,#N/A,false
-69796d29-fdc6-4b1f-99bf-d19ec86100d2,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,#N/A,false
+d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 69951e9d-78f8-4182-86eb-aac06a59e5c5,QB-API-FLEX,API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.,Software,USD,#N/A,QB-API-FLEX,#N/A,true,#N/A,false
 6f0ef127-6872-43a7-8686-2c07a910c04a,QB-VMW-D,"vSphere Desktop can be used to power virtual desktops, as well as the underlying infrastructure for the VDI environment.",3rd Party Software,USD,#N/A,QB-VMW-D,#N/A,true,#N/A,false
 727d4845-0481-43c0-ab2b-c33bcc5ce6d9,QB-BSSA-4300,"Occupying 1U of rack space, this sliding shelf provides ventilation, and easy access to severs.",Hardware,USD,#N/A,QB-BSSA-4300,#N/A,true,#N/A,false
 79257d27-a58e-4475-b351-7db8d2ddb381,QB-DRO-PROV,#N/A,#N/A,USD,#N/A,QB-DRO-PROV,#N/A,true,#N/A,false
 7a62c5e3-e9af-465b-aa49-92374cd0a460,QB-API,#N/A,Software,USD,#N/A,QB-API,#N/A,true,Allowed,false
 7c19f70b-8b12-42f7-ab77-28105e9c839f,QB-DRO-API-REQT,#N/A,#N/A,USD,#N/A,QB-DRO-API-REQT,#N/A,true,#N/A,false
-7c5a5601-791d-4a73-858f-fb7c15b1febc,#N/A,Kyocera Thermal Compound is custom made with pure aluminium powder,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
+d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 7c6bf6ac-a1cf-4b52-b484-342214d1a605,TEST-SUB,QuantumBit Subscription,Software,USD,Each,TEST-SUB,#N/A,true,Allowed,false
 7e0e3e1f-97d9-4790-b88d-cff137540e78,QB-CMPC-5891,The 12' Power Cord is designed to provide ideal electrical connectivity to your equipments. It operates at 250-Volt voltage range.,Hardware,USD,#N/A,QB-CMPC-5891,#N/A,true,#N/A,false
 80ec9ebb-b7b6-4ce5-876a-0622539d0329,QB-DRO-API-PREP,#N/A,#N/A,USD,#N/A,QB-DRO-API-PREP,#N/A,true,#N/A,false
@@ -92,7 +92,7 @@ b985b49a-cb7c-4fa9-8ed5-813747423d30,QB-PDU-2025,"Rack PDU 20A, 230V C20 input C
 be36ec61-fda2-4f4a-964c-38daf73d2255,SCN01,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 c251f70a-da7e-43f6-b7f1-c5d295a879b3,QB-DRO-API-GOVT,#N/A,#N/A,USD,#N/A,QB-DRO-API-GOVT,#N/A,true,#N/A,false
 c2f40184-5b99-413d-ab04-0a9e0697ecd3,QB-DRO-API-FLEX,#N/A,#N/A,USD,#N/A,QB-DRO-API-FLEX,#N/A,true,#N/A,false
-cc93a863-757c-4047-bacb-20ae0e767b09,#N/A,Zion Thermal Compound is custom made with pure aluminium powder,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
+d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 d2928f04-5036-46b0-bfda-04bce26328f2,W001,#N/A,Service,USD,#N/A,#N/A,#N/A,true,NotAllowed,false
 d5fa3844-589e-40eb-b69e-593440ef4e3f,#N/A,#N/A,#N/A,USD,#N/A,#N/A,#N/A,true,Allowed,false
 d77eedff-82c3-452b-a139-9c6faa9d30da,QB-CMPC-5892,The 8' Power Cord is designed to provide ideal electrical connectivity to your equipments. It operates at 250-Volt voltage range.,Hardware,USD,#N/A,QB-CMPC-5892,#N/A,true,#N/A,false
